@@ -1,0 +1,22 @@
+{
+  "name": "assignment9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrutikhandekar1/Assignment9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrutikhandekar1/Assignment9/issues"
+  },
+  "homepage": "https://github.com/shrutikhandekar1/Assignment9#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
